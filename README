@@ -1,0 +1,6 @@
+INSTRUCTIONS TO RUN:
+- need python3
+- need nltk
+- nltk.download() - download stopwords package and punckt
+run python training.py
+run python sentiment.py
